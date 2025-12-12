@@ -65,10 +65,6 @@ Reasoning Accuracy: checks for cosine similarity between ground truth reasoning 
 
 We notice that the baseline performs better than the fine-tuned model, which we primarily attribute to inconsistencies in our extraction pipeline and strict metrics. Additionally, fine-tuning with LoRA reduced format accuracy because the model overfitted to my training format and began repeating tokens. However, quantitative results still demonstrate measurable improvement in reasoning quality, and the ablation study clarifies the effect of LoRA rank.
 
-### Training Performance:
-
-
-
 
 ## Ablation Study
 
