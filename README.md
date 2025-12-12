@@ -93,6 +93,7 @@ I also wanted to test how different LoRA ranks would affect training. So, keepin
 | **16**    | 11.5%     | 0.9%            | 0.6%    |
 
 ## Video Links
-[with direct links to your demo and technical walkthrough videos]
+- Demo: https://drive.google.com/file/d/1eF6t7gydh3jLoX98lL2wXFGviXBo-IHJ/view?usp=sharing
+- Technical Walkthrough: https://drive.google.com/file/d/1p3KLpYTz8StiAIfeWwQ-cOwcmQIMC_-h/view?usp=sharing
 
 
