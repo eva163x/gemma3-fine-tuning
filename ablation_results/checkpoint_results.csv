@@ -1,0 +1,4 @@
+checkpoint,format_rate,answer_accuracy,reasoning_accuracy
+checkpoint-200,0.105,0.015,0.0
+checkpoint-400,0.105,0.005,0.0
+checkpoint-625,0.11,0.005,0.015

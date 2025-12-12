@@ -1,0 +1,4 @@
+config,lora_r,format_rate,answer_accuracy,reasoning_accuracy
+r4,4,0.116,0.0064,0.008
+r8,8,0.1304,0.0104,0.0056
+r16,16,0.1152,0.0088,0.0056
