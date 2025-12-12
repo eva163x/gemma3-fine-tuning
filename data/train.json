@@ -1,0 +1,202 @@
+[
+{
+"question": "Sana has 12 apples. She buys 9 more. How many apples does she have now?",
+"reasoning": "1) Start with 12 apples.\n2) Add 9 more: 12 + 9 = 21.\n3) Total apples = 21.",
+"answer": "21"
+},
+{
+"question": "There are 30 students in a class. 7 students went home early. How many students remain?",
+"reasoning": "1) Start with 30 students.\n2) Subtract 7 who left: 30 - 7 = 23.\n3) Students remaining = 23.",
+"answer": "23"
+},
+{
+"question": "A pack contains 6 pencils. If Mia buys 4 packs, how many pencils does she get?",
+"reasoning": "1) One pack = 6 pencils.\n2) Four packs = 4 × 6.\n3) Compute: 4 × 6 = 24.\n4) Total pencils = 24.",
+"answer": "24"
+},
+{
+"question": "24 cookies are shared equally among 6 friends. How many cookies does each friend get?",
+"reasoning": "1) Total cookies = 24.\n2) Friends = 6.\n3) Divide: 24 ÷ 6 = 4.\n4) Each friend gets 4 cookies.",
+"answer": "4"
+},
+{
+"question": "Liam read 15 pages on Monday and twice that on Tuesday. How many pages did he read in total?",
+"reasoning": "1) Pages on Monday = 15.\n2) Pages on Tuesday = 2 × 15 = 30.\n3) Total = 15 + 30 = 45.",
+"answer": "45"
+},
+{
+"question": "A toy costs $7. If Ava has $30, how much money will she have left after buying the toy?",
+"reasoning": "1) Start with $30.\n2) Subtract cost $7: 30 - 7 = 23.\n3) Remaining money = $23.",
+"answer": "$23"
+},
+{
+"question": "School starts at 8:15 AM and lasts 6 hours and 30 minutes. What time does school end?",
+"reasoning": "1) Start time = 8:15 AM.\n2) Duration = 6 hours 30 minutes.\n3) Add hours: 8:15 + 6:00 = 14:15 (2:15 PM).\n4) Add minutes: 14:15 + 0:30 = 14:45.\n5) End time = 2:45 PM.",
+"answer": "2:45 PM"
+},
+{
+"question": "A rectangle is 7 cm long and 4 cm wide. What is its area?",
+"reasoning": "1) Area = length × width.\n2) Compute: 7 × 4 = 28.\n3) Area = 28 cm².",
+"answer": "28 cm²"
+},
+{
+"question": "A square has side length 9 m. What is its perimeter?",
+"reasoning": "1) Perimeter of square = 4 × side.\n2) Compute: 4 × 9 = 36.\n3) Perimeter = 36 m.",
+"answer": "36 m"
+},
+{
+"question": "Anna ate 1/4 of a pizza and Ben ate 2/4. What fraction of the pizza was eaten?",
+"reasoning": "1) Add fractions: 1/4 + 2/4 = (1+2)/4 = 3/4.\n2) Total eaten = 3/4 of the pizza.",
+"answer": "3/4"
+},
+{
+"question": "There were 5/6 of a cake left. If Sarah ate 1/6, how much remains?",
+"reasoning": "1) Start with 5/6.\n2) Subtract 1/6: 5/6 - 1/6 = (5-1)/6 = 4/6.\n3) Simplify 4/6 = 2/3.\n4) Remaining = 2/3 of the cake.",
+"answer": "2/3"
+},
+{
+"question": "A farmer has 18 rows of apple trees with 12 trees in each row. How many trees in total?",
+"reasoning": "1) Rows = 18, trees per row = 12.\n2) Multiply: 18 × 12.\n3) Compute: 18 × 10 = 180; 18 × 2 = 36; sum = 180 + 36 = 216.\n4) Total trees = 216.",
+"answer": "216"
+},
+{
+"question": "47 candies are put into bags holding 5 candies each. How many full bags and how many candies remain?",
+"reasoning": "1) Divide 47 by 5.\n2) 5 × 9 = 45 leaving remainder 47 - 45 = 2.\n3) Full bags = 9, leftover candies = 2.",
+"answer": "9 full bags, 2 candies left"
+},
+{
+"question": "Tom has $50. He spends $12 on lunch and $15 on books. How much does he have left?",
+"reasoning": "1) Start $50.\n2) Subtract lunch: 50 - 12 = 38.\n3) Subtract books: 38 - 15 = 23.\n4) Remaining = $23.",
+"answer": "$23"
+},
+{
+"question": "Three students scored 78, 85, and 91 on a test. What is the average score?",
+"reasoning": "1) Sum scores: 78 + 85 + 91 = (78 + 85) = 163; 163 + 91 = 254.\n2) Number of students = 3.\n3) Average = 254 ÷ 3 = 84.666... = 84 2/3.\n4) As decimal ≈ 84.67.",
+"answer": "84 2/3 (≈84.67)"
+},
+{
+"question": "A recipe uses 2 cups of flour for every 3 cups of sugar. If I use 6 cups of sugar, how much flour is needed?",
+"reasoning": "1) Ratio flour : sugar = 2 : 3.\n2) For sugar 6, factor = 6 ÷ 3 = 2.\n3) Flour = 2 × 2 = 4 cups.",
+"answer": "4 cups"
+},
+{
+"question": "One notebook costs $3.50. How much do 8 notebooks cost?",
+"reasoning": "1) Price per notebook = $3.50.\n2) For 8 notebooks multiply: 3.50 × 8 = 28.00.\n3) Total cost = $28.00.",
+"answer": "$28.00"
+},
+{
+"question": "A movie starts at 1:50 PM and lasts 2 hours and 25 minutes. When does it end?",
+"reasoning": "1) Start 1:50 PM.\n2) Add 2 hours -> 3:50 PM.\n3) Add 25 minutes -> 4:15 PM.\n4) End time = 4:15 PM.",
+"answer": "4:15 PM"
+},
+{
+"question": "A shirt priced at $40 is on sale for 25% off. What is the sale price?",
+"reasoning": "1) Original price = $40.\n2) Discount = 25% of 40 = 0.25 × 40 = 10.\n3) Sale price = 40 - 10 = $30.",
+"answer": "$30"
+},
+{
+"question": "A playground has a rectangular sandbox 6 m by 3 m and a square play mat 4 m on a side. What is the total area?",
+"reasoning": "1) Sandbox area = 6 × 3 = 18 m².\n2) Play mat area = 4 × 4 = 16 m².\n3) Total area = 18 + 16 = 34 m².",
+"answer": "34 m²"
+},
+{
+"question": "What number must be added to 27 to make 100?",
+"reasoning": "1) Let x + 27 = 100.\n2) x = 100 - 27 = 73.\n3) Number = 73.",
+"answer": "73"
+},
+{
+"question": "100 pages are split equally among 4 days. How many pages per day?",
+"reasoning": "1) Divide 100 by 4 = 25.\n2) Pages per day = 25.",
+"answer": "25"
+},
+{
+"question": "Sam bought 5 apples for $3.75. What is the price of one apple?",
+"reasoning": "1) Total cost = $3.75 for 5 apples.\n2) Price per apple = 3.75 ÷ 5 = 0.75.\n3) One apple costs $0.75.",
+"answer": "$0.75"
+},
+{
+"question": "A library had 500 books. They lent out 128 books. How many books remain?",
+"reasoning": "1) Start 500.\n2) Subtract 128: 500 - 128 = 372.\n3) Remaining books = 372.",
+"answer": "372"
+},
+{
+"question": "If 5 + x = 17, what is x?",
+"reasoning": "1) Solve 5 + x = 17.\n2) x = 17 - 5 = 12.\n3) x = 12.",
+"answer": "12"
+},
+{
+"question": "A train leaves at 9:20 AM and arrives at 12:05 PM. How long was the trip?",
+"reasoning": "1) Start 9:20 AM, end 12:05 PM.\n2) From 9:20 to 11:20 = 2 hours.\n3) From 11:20 to 12:05 = 45 minutes.\n4) Total = 2 hours 45 minutes.",
+"answer": "2 hours 45 minutes"
+},
+{
+"question": "A school orders 125 boxes of crayons, each with 24 crayons. How many crayons in total?",
+"reasoning": "1) Boxes = 125, crayons per box = 24.\n2) Compute 125 × 24 = 125 × 20 + 125 × 4 = 2500 + 500 = 3000.\n3) Total crayons = 3000.",
+"answer": "3000"
+},
+{
+"question": "There are 30 kids; 2/5 of them play soccer. How many kids play soccer?",
+"reasoning": "1) Total kids = 30.\n2) Fraction playing soccer = 2/5.\n3) Multiply: 30 × (2/5) = (30 ÷ 5) × 2 = 6 × 2 = 12.\n4) 12 kids play soccer.",
+"answer": "12"
+},
+{
+"question": "A ribbon is 250 cm long. How many meters is that?",
+"reasoning": "1) 100 cm = 1 m.\n2) 250 cm = 250 ÷ 100 = 2.5 m.\n3) Ribbon length = 2.5 m.",
+"answer": "2.5 m"
+},
+{
+"question": "A $60 backpack has a 10% discount and then a $5 coupon. What is the final price?",
+"reasoning": "1) Original price = $60.\n2) 10% discount = 0.10 × 60 = $6.\n3) Price after discount = 60 - 6 = $54.\n4) Apply $5 coupon: 54 - 5 = $49.\n5) Final price = $49.",
+"answer": "$49"
+},
+{
+"question": "If 8 pens cost $12, how much do 20 pens cost?",
+"reasoning": "1) Price for 8 pens = $12.\n2) Price per pen = 12 ÷ 8 = 1.5.\n3) For 20 pens: 1.5 × 20 = 30.\n4) Cost = $30.",
+"answer": "$30"
+},
+{
+"question": "A circular pond has radius 3 m. What is its area (use \u03c0=3.14)?",
+"reasoning": "1) Area = \u03c0 × r².\n2) r = 3 m, r² = 9.\n3) Area = 3.14 × 9 = 28.26.\n4) Area \u2248 28.26 m².",
+"answer": "\u224828.26 m²"
+},
+{
+"question": "James ran 1 1/2 miles on Monday and 2 3/4 miles on Tuesday. How many miles total?",
+"reasoning": "1) Convert to decimals: 1 1/2 = 1.5, 2 3/4 = 2.75.\n2) Sum = 1.5 + 2.75 = 4.25.\n3) As mixed number 4 1/4 miles.\n4) Total = 4.25 miles.",
+"answer": "4 1/4 miles (4.25 miles)"
+},
+{
+"question": "What is the sum of the digits of 4,739?",
+"reasoning": "1) Digits: 4, 7, 3, 9.\n2) Sum = 4 + 7 + 3 + 9 = 23.\n3) Answer = 23.",
+"answer": "23"
+},
+{
+"question": "A bag has 3 red, 2 blue, and 5 green marbles. What is the probability of drawing a blue marble?",
+"reasoning": "1) Total marbles = 3 + 2 + 5 = 10.\n2) Blue marbles = 2.\n3) Probability = 2/10 = 1/5 = 0.2 = 20%.\n4) Answer = 1/5 or 20%.",
+"answer": "1/5 (20%)"
+},
+{
+"question": "A triangle has sides 7 cm, 8 cm, and 10 cm. What is its perimeter?",
+"reasoning": "1) Perimeter = sum of sides = 7 + 8 + 10 = 25.\n2) Perimeter = 25 cm.",
+"answer": "25 cm"
+},
+{
+"question": "Round 68.374 to the nearest tenth.",
+"reasoning": "1) Identify tenths place: 68.3 and next digit 7 (hundredths) ≥ 5.\n2) Round tenths up: 68.3 -> 68.4.\n3) Answer = 68.4.",
+"answer": "68.4"
+},
+{
+"question": "A baker made 240 cupcakes. 6 cupcakes were eaten before packing. He then packs the rest into boxes of 12. How many full boxes can he fill and how many cupcakes remain?",
+"reasoning": "1) Start with 240 cupcakes.\n2) 6 eaten before packing: 240 - 6 = 234.\n3) Boxes hold 12 each. Full boxes = 234 ÷ 12 = 19 remainder 6 (since 12 × 19 = 228; 234 - 228 = 6).\n4) So 19 full boxes and 6 cupcakes remain unpacked.",
+"answer": "19 full boxes, 6 cupcakes left"
+},
+{
+"question": "A car travels 180 km in 3 hours. What is its average speed in km per hour?",
+"reasoning": "1) Distance = 180 km, time = 3 hours.\n2) Speed = distance ÷ time = 180 ÷ 3 = 60.\n3) Average speed = 60 km/h.",
+"answer": "60 km/h"
+},
+{
+"question": "Priya buys a drink for $2.45 with a $5 bill. How much change should she get?",
+"reasoning": "1) Start with $5.00.\n2) Subtract cost $2.45: 5.00 - 2.45 = 2.55.\n3) Change = $2.55.",
+"answer": "$2.55"
+}
+]

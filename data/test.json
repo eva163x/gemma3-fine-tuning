@@ -1,0 +1,50 @@
+[{
+"question": "A plant is 10 cm tall. It grows 15% in one week. How tall is it after the growth?",
+"reasoning": "1) Initial height = 10 cm.\n2) Growth = 15% of 10 = 0.15 × 10 = 1.5 cm.\n3) New height = 10 + 1.5 = 11.5 cm.",
+"answer": "11.5 cm"
+},
+{
+"question": "Calculate the product: 234 × 6.",
+"reasoning": "1) Multiply 234 by 6.\n2) 200 × 6 = 1200; 30 × 6 = 180; 4 × 6 = 24.\n3) Sum = 1200 + 180 + 24 = 1404.\n4) Product = 1404.",
+"answer": "1404"
+},
+{
+"question": "There are 500 seats in a theater. 378 tickets were sold. How many seats remain unsold?",
+"reasoning": "1) Total seats = 500.\n2) Tickets sold = 378.\n3) Unsold seats = 500 - 378 = 122.",
+"answer": "122"
+},
+{
+"question": "A cyclist travels 3/4 of an hour covering 18 km. What is the cyclist's average speed in km/h?",
+"reasoning": "1) Time = 3/4 hour = 0.75 h.\n2) Distance = 18 km.\n3) Speed = 18 ÷ 0.75 = 24 km/h.\n4) Average speed = 24 km/h.",
+"answer": "24 km/h"
+},
+{
+"question": "A garden is made of two rectangles: one 5 m by 3 m and another 7 m by 2 m. What is the total area?",
+"reasoning": "1) Area1 = 5 × 3 = 15 m².\n2) Area2 = 7 × 2 = 14 m².\n3) Total area = 15 + 14 = 29 m².",
+"answer": "29 m²"
+},
+{
+"question": "Which is larger: 7/8 or 3/4? By how much?",
+"reasoning": "1) Convert to decimals or common denominator. 7/8 = 0.875, 3/4 = 0.75.\n2) Difference = 0.875 - 0.75 = 0.125 = 1/8.\n3) 7/8 is larger by 1/8.",
+"answer": "7/8 is larger by 1/8 (0.125)"
+},
+{
+"question": "A 100-meter ribbon is cut into pieces 12 m long. How many full pieces and leftover length remain?",
+"reasoning": "1) Divide 100 by 12. 12 × 8 = 96, remainder 100 - 96 = 4.\n2) Full pieces = 8, leftover = 4 m.",
+"answer": "8 pieces, 4 m left"
+},
+{
+"question": "What is 11 squared?",
+"reasoning": "1) 11 squared = 11 × 11.\n2) Compute: 11 × 11 = 121.\n3) Answer = 121.",
+"answer": "121"
+},
+{
+"question": "A ribbon is 2/3 meter long. If you cut it into pieces each 1/6 meter long, how many pieces do you get?",
+"reasoning": "1) Length = 2/3 m. Piece length = 1/6 m.\n2) Number pieces = (2/3) ÷ (1/6) = (2/3) × 6 = 12/3 = 4.\n3) You get 4 pieces.",
+"answer": "4"
+},
+{
+"question": "A jar contains quarters (25¢) and dimes (10¢). If there are 8 quarters and 15 dimes, what is the total amount of money?",
+"reasoning": "1) Quarters value: 8 × 25¢ = 200¢.\n2) Dimes value: 15 × 10¢ = 150¢.\n3) Total = 200¢ + 150¢ = 350¢ = $3.50.",
+"answer": "$3.50"
+}]

@@ -1,0 +1,14 @@
+torch
+transformers
+datasets
+peft
+accelerate
+wandb
+tqdm
+pandas
+numpy
+matplotlib
+
+#Optional but recommended
+kagglehub>=0.2.0
+huggingface_hub>=0.20.0
